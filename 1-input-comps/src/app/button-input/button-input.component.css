@@ -1,0 +1,10 @@
+.button{
+    margin: 6px auto auto auto;
+    width: 50px;
+    height: 20px;
+}
+
+button{
+    padding: 5px 8px 5px 8px;
+    cursor: pointer;
+}

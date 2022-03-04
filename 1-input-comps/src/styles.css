@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+*{
+    font-family: 'Hubballi', cursive;
+}
+body{
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+input{
+    margin-bottom: 5px;
+}
